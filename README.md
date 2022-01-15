@@ -6,7 +6,6 @@
 </a>
 
 
-
 ## What it does
 A web application that allows the user to search for animal calls in over 15 days of recordings. Select the animal common name and it returns a 10 second stereo sound sample centered on the animal call.  Also shows the spectrogram of the sample, along with the location of the call and the names of any other animals and calls detected.  
 
