@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/filipmu/animal-sound-detection-app/blob/main/screenshot.png" target="_blank" rel="noopener noreferrer">
- <img src="https://github.com/filipmu/animal-sound-detection-app/blob/main/screenshot.png" title="Github Markdown does not support opening new pages (github.com/mojombo/github-flavored-markdown/issues/28) &#013 ***Please middle click on mouse to open in new tab" alt="screenshot" width="200" height="200">
+ <img src="https://github.com/filipmu/animal-sound-detection-app/blob/main/screenshot.png" title="***Please middle click on mouse to open in new tab***&#013Github Markdown does not support opening new pages (github.com/mojombo/github-flavored-markdown/issues/28)  " alt="screenshot" width="200" height="200">
 </a>
 
 
