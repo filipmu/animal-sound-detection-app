@@ -1,5 +1,11 @@
 # animal-sound-detection-app
 
+
+<a href="https://github.com/filipmu/animal-sound-detection-app/blob/main/screenshot.png" target="_blank" rel="noopener noreferrer">
+ <img src="https://github.com/filipmu/animal-sound-detection-app/blob/main/screenshot.png" alt="screenshot" width="200" height="200">
+</a>
+
+
 ## What it does
 A web application that allows the user to search for animal calls in over 15 days of recordings. Select the animal common name and it returns a 10 second stereo sound sample centered on the animal call.  Also shows the spectrogram of the sample, along with the location of the call and the names of any other animals and calls detected.  
 
